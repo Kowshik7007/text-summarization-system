@@ -1,0 +1,20 @@
+# Text Summarization System
+# Python dependencies required to run this project.
+
+# Data Processing
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+torch
+
+# Jupyter Notebook
+jupyterlab
+ipykernel
